@@ -28,12 +28,7 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<dependency>
-  <groupId>org.apache.maven.plugins</groupId>
-  <artifactId>maven-jar-plugin</artifactId>
-  <version>3.8.6</version>
-  <type>maven-plugin</type>
-</dependency>
+		
 	</dependencies>
 
 	<build>
